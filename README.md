@@ -9,3 +9,6 @@ A resource that discusses Azure, AWS and Google cloud and cluster computing
 * Google: https://console.cloud.google.com/
 
 ---
+
+Please read the [WIKI](https://github.com/tobigithub/cloud-computing/wiki). Thank you.
+
