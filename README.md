@@ -2,6 +2,8 @@
 
 A resource that discusses Azure, AWS and Google cloud and cluster computing  
 
+---
+
 Console login:
 
 * Azure: https://portal.azure.com/
